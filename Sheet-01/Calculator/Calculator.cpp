@@ -21,6 +21,5 @@ int main(){
     else if(c == '/'){
         result = a/b;
     }
-
     cout<<result<<endl;
 }
