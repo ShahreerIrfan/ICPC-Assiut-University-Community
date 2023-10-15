@@ -22,5 +22,5 @@ int main(){
         result = a/b;
     }
     cout<<result<<endl;
-    // Hello another test commit
+    return 0;
 }
