@@ -6,4 +6,5 @@ int main(){
     
     float area = 3.141592653*(r*r);
     cout<<fixed<<setprecision(9)<<area;
+    return 0;
 } 
