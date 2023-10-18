@@ -14,4 +14,6 @@ int main(){
     else{
         cout<<"IS DIGIT"<<endl;
     }
+
+    return 0;
 }
