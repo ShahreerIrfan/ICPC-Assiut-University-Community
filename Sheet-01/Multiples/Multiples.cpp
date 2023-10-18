@@ -20,4 +20,5 @@ int main(){
             cout<<"No Multiples"<<endl;
         }
     }
+    return 0;
 }
