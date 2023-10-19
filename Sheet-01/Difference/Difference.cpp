@@ -6,4 +6,5 @@ int main(){
 
     long long x = (a*b)-(c*d);
     cout<<"Difference = "<<x<<endl;
+    return 0;
 }
