@@ -7,4 +7,5 @@ int main(){
     long long last_digit = M%10;
     long long result = (first_digit+last_digit);
     cout<<result<<endl;
+    return 0;
 }
