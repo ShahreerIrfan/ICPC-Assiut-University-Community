@@ -9,4 +9,5 @@ int main(void){
     else if(c>='A'&& c<='Z'){
         cout<<(char)tolower(c)<<endl;
     }
+    return 0;
 }
